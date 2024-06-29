@@ -7,6 +7,8 @@ muchas de las tecnicas aprendidas en dicho master mas algunas tecnicas de propio
 
 El desarollo del master implico una subida de nivel y de dificultad continuamente creciente que te obligaba estar en constante proceso de aprendizaje y fomentaba el propio aprendizaje de tecnicas nuevas ya que este mundo esta en pleno desarollo, con lo cual estar inmerso en la actualidad es de obligado cumplimiento.
 
+Para la realizacion de estas tareas hemos utilizado diversidad de herramientas ya sean en cloud como Google Collab, como cuadernos de jupyter notebook, IDLE's como pycharm, VSC, IntelliJ, notebooks de databricks
+
 ## Dejo los modulos vistos en el Master y algunas de las tareas realizadas para la superacion de dicho modulo, Repito, estas tareas son nivel basico para poder asentar las bases para un crecimiento puesto como propio objetivo.
 
 - Modulo 1 (Python Basico), Características, tipos de datos, estructuras de control de flujo, funciones, parámetros, manipulación de cadenas, estructuras de datos…
@@ -30,7 +32,7 @@ El objetivo general de este módulo es adquirir los conceptos fundamentales para
 
 - Modulo 11 (Tecnologias del Big Data) , Internet de las cosas como servicio, conectividad con fuentes de datos heterogeneas, a traves de brokers de mensajes y hubs con dispositivos, Hadoop, Spark y diversas tecnicas de visualizacion. Utilizando Spark aprendiendo las caracteristicas de la herramienta RDD, spark streaming, Cluster Spark, sistemas de cache... Ademas de Hadoop y sus funcionalidades basicas para en modulos posteriores poder ampliar el conocimiento.
 
-- Modulo 12 (Hadoop-Spark), vision panoramica de Hadoop, su arquitectura y su utilizacion a traves de la linea de comandos para despues pasar a Spark donde descrubrimos la filosofia y enfoque para ejecutarse sobre un cluster de ordenadores utilizando databricks para poner en practica este aprendizaje enfocandose en los modulos de spark.sql y spark.Mlib observando todo sobre la herramienta de databricks.
+- Modulo 12 (Hadoop-Spark), vision panoramica de Hadoop, su arquitectura y su utilizacion a traves de la linea de comandos para despues pasar a Spark donde descrubrimos la filosofia y enfoque para ejecutarse sobre un cluster de ordenadores utilizando databricks para poner en practica este aprendizaje enfocandose en los modulos de spark.sql y spark.Mlib observando todo sobre la herramienta de databricks y utilizando la libreria de pyspark para la realizacion de la tarea.
 
 - Modulo 13 (Productivizacion del Modelo), Despliegue del modelaje aprendido en modulos anteriores (Machine Learning) y lo pasos necesarios para la puesta en produccion, utilizando librerias como pickle para la serializacion del modelo, FastAPI para la creacion de un microservicio, el uso de pipelines para automatizar procesos predictivos, entornos virtuales propios en la maquina o Dockers para adaptar contenedores al requerimiento del microservicio para el trabajo en comun.
 
