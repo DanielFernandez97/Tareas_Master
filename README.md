@@ -43,4 +43,4 @@ El objetivo general de este módulo es adquirir los conceptos fundamentales para
 
 Estos son los modulos y una pequeña definicion intentando condensar toda la informacion obtenida en varias lineas.
 
-En este repositorio como he comentado anteriormente dejare las tareas de superacion para la aprobacion de muchos de los modulos.
+En este repositorio como he comentado anteriormente dejare las tareas de superacion para la aprobacion de muchos de los modulos. Ademas del aprendizaje obtenido en este Master, como he comentado en lineas anteriores, a medida que se avanzaba en el master, otros aprendizajes adyacentes al master han venido siendo necesarios como el uso de expresiones regulares el cual lo he obtenido de manera autonoma.
